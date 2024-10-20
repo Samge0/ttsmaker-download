@@ -2,6 +2,8 @@
 
 从[ttsmaker.cn](https://ttsmaker.cn)中提取一些示例音频数据，用于测试[F5 TTS](https://github.com/SWivid/F5-TTS)的声音克隆效果。
 
+[点击去下载已保存的示例音频（results.zip）>>](https://github.com/Samge0/ttsmaker-download/releases/tag/v0.0.1)
+
 
 ### 拉取仓库
 ```shell
