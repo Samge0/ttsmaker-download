@@ -51,3 +51,14 @@ python crawler_js.py
 
 ![image](https://github.com/user-attachments/assets/63e3d28b-b19a-4adc-b8bd-43e11fd863ac)
 
+
+### T5 TTS克隆效果
+- 示例音频
+
+https://github.com/user-attachments/assets/2ad96790-5707-4e9d-a552-01752321cad5
+
+- 克隆音频
+
+https://github.com/user-attachments/assets/841090f0-9e0b-45c0-aaab-23f5c5a70b44
+
+![image](https://github.com/user-attachments/assets/3371cb1f-2877-4ef9-8beb-5a124c7fa81f)
