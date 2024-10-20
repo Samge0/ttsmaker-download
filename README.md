@@ -55,7 +55,8 @@ python crawler_js.py
 ### T5 TTS克隆效果
 - 示例音频
 
-https://github.com/user-attachments/assets/2ad96790-5707-4e9d-a552-01752321cad5
+https://github.com/user-attachments/assets/0a2f3bbc-416b-4e94-97bf-66a563869985
+
 
 - 克隆音频
 
