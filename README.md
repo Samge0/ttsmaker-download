@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ``` 
 
 ### 配置ChromeDriver路径
-在[config.py](config.py)中配置自己的ChromeDriver路径
+复制[config.demo.py](config.demo.py)为`config.py`，并在`config.py`中配置自己的ChromeDriver路径
 ```shell
 cp config.demo.py config.py
 ```
@@ -36,5 +36,11 @@ python crawler.py
 
 或者：
 ```shell
-python crawler.py
+python crawler_js.py
 ```
+
+### 相关截图
+![image](https://github.com/user-attachments/assets/eb69f721-55ee-48ab-935d-2a276f4570ce)
+
+![image](https://github.com/user-attachments/assets/63e3d28b-b19a-4adc-b8bd-43e11fd863ac)
+
