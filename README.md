@@ -8,6 +8,11 @@
 git clone https://github.com/Samge0/ttsmaker-download.git
 ```
 
+### 进入项目
+```shell
+cd ttsmaker-download
+```
+
 ### 创建环境
 ```shell
 conda create -n ttsmaker-download python=3.10.13 -y
